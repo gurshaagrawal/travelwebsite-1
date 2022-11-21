@@ -80,7 +80,6 @@ header .logo{
   color:#fff;
   text-transform: uppercase;
 }
-
 header .logo span{
   color:var(--orange);
 }
